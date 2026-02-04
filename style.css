@@ -1,0 +1,12 @@
+:root{
+    font-family: 'prees star 2p','system ui';
+    color: #101010;
+}
+body{
+    background-color: rgb(255, 254, 254);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
